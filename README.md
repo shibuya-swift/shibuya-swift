@@ -5,4 +5,5 @@
 
 ## 活動履歴
 
-* [第一回](https://github.com/shibuya-swift/shibuya-swift/wiki/shibuya-swift01)
+* [第１回](https://github.com/shibuya-swift/shibuya-swift/wiki/shibuya-swift01)
+* [第２回](https://github.com/shibuya-swift/shibuya-swift/wiki/shibuya.swift02)

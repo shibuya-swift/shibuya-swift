@@ -2,6 +2,12 @@
 
 お酒を飲みながら、参加者のiOSやOS X などのAppleまつわるtipsや四方山話を共有する会です。
 
+## 主催していただける場合の連絡先
+
+お気軽にお問い合わせください！
+
+- Twitter
+  - https://twitter.com/nakajijapan
 
 ## Working History
 

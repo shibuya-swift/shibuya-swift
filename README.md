@@ -16,3 +16,4 @@
 * [shibuya.swift 03](https://github.com/shibuya-swift/shibuya-swift/wiki/shibuya.swift03)
 * [shibuya.swift 04](https://github.com/shibuya-swift/shibuya-swift/wiki/shibuya.swift04)
 * [shibuya.swift 05](https://github.com/shibuya-swift/shibuya-swift/wiki/shibuya.swift05)
+* [shibuya.swift 06](https://github.com/shibuya-swift/shibuya-swift/wiki/shibuya.swift06)

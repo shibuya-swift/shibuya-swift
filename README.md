@@ -2,6 +2,10 @@
 
 お酒を飲みながら、参加者のiOSやMacOSなどのAppleまつわるtipsや四方山話を共有する会です。
 
+**Connpass**
+
+https://shibuya-swift.connpass.com/
+
 ## 主催していただける方へ
 
 shibuya.swiftは会場提供をお願いする方に当日の運営、主催もお願いする、というスタンスで行っております。

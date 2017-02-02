@@ -58,3 +58,4 @@ shibuya.swiftは会場提供をお願いする方に当日の運営、主催も�
 * [shibuya.swift 04](https://github.com/shibuya-swift/shibuya-swift/wiki/shibuya.swift04)
 * [shibuya.swift 05](https://github.com/shibuya-swift/shibuya-swift/wiki/shibuya.swift05)
 * [shibuya.swift 06](https://github.com/shibuya-swift/shibuya-swift/wiki/shibuya.swift06)
+* [shibuya.swift 07](https://github.com/shibuya-swift/shibuya-swift/wiki/shibuya.swift07)
